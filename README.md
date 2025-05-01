@@ -1,7 +1,8 @@
     Kassel Hand Project Lookalike Printable Model README
 
-    This model of the Kassel Hand has interior components that appear and move like 
-    the original artifact, but that are fragile because of their plastic material.
+    This file repository contains the files for the Lookalike model of the Kassel Hand. Its interior components appear and move like 
+    the original artifact, but these components are fragile because of their construction. If you have questions about this repository's purpose or are unsure of how to start the 
+    printing process, head back to this model's webpage and check out the section titled, "New to Printing?" Happy printing!
 
     1.) Print Settings
 
