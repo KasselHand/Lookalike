@@ -5,9 +5,7 @@
 
     1.) Print Settings
 
-    a.) link to GCode
-
-    b.) General Print Settings
+    a.) General Print Settings
         i.) We used an Anycubic Kobra 3 with the Anycubic Slicer.
        ii.) 2 Vertical, 4 Horizontal Shells with a minimum thickness of 0.6mm
       iii.) 15% infill density, grid pattern
@@ -36,14 +34,13 @@
             expect a ring to sit atop a table.
 
     2.) File Naming Convention--"L-##-[Name of Part]-#X"
-        a.) The first character, "L," is a letter. This letter will be either "M" 
-            for Mechanism or "S" for Shell.
-              i.) Shell is printed out of gray and is a structural part.
-             ii.) Mechanism is any movable part that is integral to the actuation.
-        b.) The two-digit segment next to this letter identifies the part.
-        c.) The "Name of Part" is the colloquial term for the part in question--
-            it's easier to identify if you need a new ring finger than a 
-            replacement "M-03."
-        d.) "#X" is how many copies are needed.
-
-    3.) Helpful Links
+        
+    a.) The first character, "L," is a letter. This letter will be either "M" 
+        for Mechanism or "S" for Shell.
+            i.) Shell is printed out of gray and is a structural part.
+           ii.) Mechanism is any movable part that is integral to the actuation.
+    b.) The two-digit segment next to this letter identifies the part.
+    c.) The "Name of Part" is the colloquial term for the part in question--
+        it's easier to identify if you need a new ring finger than a 
+        replacement "M-03."
+    d.) "#X" is how many copies are needed.
