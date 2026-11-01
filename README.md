@@ -9,8 +9,8 @@
     1.) File Naming Convention--"L-##-[Name of Part]-#X"
         
         A.) Frist Section, L is a letter, either "M" for Mechanism or "S" for Shell.
-                i.) Shell was printed out of gray and is a structural part.
-               ii.) Mechanism is any movable part that is integral to the actuation.
+                1.) Shell was printed out of gray and is a structural part.
+                2.) Mechanism is any movable part that is integral to the actuation.
         B.) Next section is two numbers to identify the part. The presence of the letter L means it 
             is a part unique to the Lookalike. "Alt" means this is an alternative part with the 
             ability to use either option. M11L Alt is a ratchet release that looks closer to the 
