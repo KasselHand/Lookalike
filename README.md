@@ -8,7 +8,7 @@
 
     1.) File Naming Convention--"L-##-[Name of Part]-#X"
         
-        A.) Frist Section, L is a letter, either "M" for Mechanism or "S" for Shell.
+        A.) First Section, L is a letter, either "M" for Mechanism or "S" for Shell.
                 1.) Shell was printed out of gray and is a structural part.
                 2.) Mechanism is any movable part that is integral to the actuation.
         B.) Next section is two numbers to identify the part. The presence of the letter L means it 
@@ -16,8 +16,7 @@
             ability to use either option. M11L Alt is a ratchet release that looks closer to the 
             original but is less functional.
         C.) The "Name of Part" is the colloquial term for the part in question. i.e. it's
-            it's easier to identify if you need a new ring finger than a 
-            replacement "M-03."
+            easier to identify if you need a new ring finger than a replacement "M-03."
         D.) "#X" is how many copies are needed.
     
     2.) Print Settings
@@ -29,7 +28,7 @@
         E.) Organic supports with a 0.28mm Z contact distance and 2.5mm spacing
         F.) Top and bottom interface layers should be 3 layers thick
         G.) Print the paddle (M-11) oriented where the flat of the paddle is normal 
-                to the plate and the rod is prarllel. While this may seem like the 
+                to the plate and the rod is parallel. While this may seem like the 
                 worst oritnetation to print, the goal is to have the layer lines run 
                 along the rod and for the presence of unbroken layers circumnavigating 
                 the entire rod and paddle. This is for maximum strength.
@@ -44,7 +43,7 @@
                 fingers: M-07, M-08, M-09, and M-10.
         J.) M-13 and M-14, the axles, can be printed horizontally. The rod rests 
                 lengthwise along the plate.
-        K.) M-15 is an exception to direction I--for best results, we have found 
+        K.) M-15 is an exception to prior direction I.)--for best results, we have found 
                 printing with the loop parallel to the plate is best.
         L.) M-16 should be printed with the loop flat on the plate as you would 
                 expect a ring to sit atop a table.
